@@ -70,3 +70,4 @@ You’ll be able to:
 	•	Upload any PDF
 	•	Ask questions in natural language
 	•	Get answers with exact page references
+<img width="1720" height="839" alt="Screenshot 2025-07-17 at 2 10 50 PM" src="https://github.com/user-attachments/assets/cfabf03f-07fa-4ce5-976e-a54deab9a6a9" />
