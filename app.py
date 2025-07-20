@@ -149,7 +149,7 @@ def main():
     st.markdown("---")
     st.markdown(
         "💡 **Tips:** Upload a PDF, wait for processing, then ask specific questions about its content. "
-        "The system will find relevant sections and provide answers with page ref."
+        "The system will find relevant sections and provide answers with page references."
     )
 
 if __name__ == "__main__":
